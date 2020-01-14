@@ -1,4 +1,43 @@
 body {
     background-color: aquamarine;
     color: red;
+    text-align: center;
+
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a{
+    display:block;
+    background-color: orangered;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color:blanchedalmond;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    color: teal;
+    background-color: wheat;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
 }

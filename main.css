@@ -81,3 +81,27 @@ footer {
 img {
     height: 100px;
 }
+
+.DrCard {
+    color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.DrCard2 {
+    color: silver;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.DrCard3 {
+    color: slategray;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+}
+
+.DrCard4 {
+    color: steelblue;
+    border: 2px solid lightyellow;
+    border-radius: 10px;
+}

@@ -53,3 +53,31 @@ footer {
 .Droid-title{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.card{
+    color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.card2{
+    color: steelblue;
+    border: 2px solid white;
+    border-radius: 10px
+}
+
+.card3{
+    color: gold;
+    border: 2px solid lightsteelblue;
+    border-radius: 10px;
+}
+
+.card4{
+    color: gray;
+    border: 2px solid silver;
+    border-radius: 10px;
+}
+
+img {
+    height: 100px;
+}
